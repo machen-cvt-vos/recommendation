@@ -1,0 +1,4 @@
+baseURL = 'https://machen-cvt-vos.github.io/recommendation'
+languageCode = 'zh'
+title = '不靠谱分享'
+theme = "ananke"
