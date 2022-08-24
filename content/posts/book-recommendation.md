@@ -104,7 +104,7 @@ description: "简单推荐个人学习用到的书单"
 | [_Studies in Genesis One_](https://www.wtsbooks.com/products/studies-in-genesis-one-edward-young-9780875525501) | Edward J. Young | - | - |
 | [_Creation And Change: Genesis 1:1 __–__ 2:4 in the Light of Changing Scientific Paradigms_](https://www.amazon.com/Creation-Change-Douglas-F-Kelly/dp/1781919992) | Douglas F. Kelly | - | - |
 | [_Interpreting Eden: A Guide to Faithfully Reading and Understanding Genesis 1-3_](https://www.amazon.com/Interpreting-Eden-Faithfully-Reading-Understanding/dp/1433558734) | 溥伟恩；D. A. 卡森 | - | - |
-| [_Interpreting the Prophetic Word: An Introduction to the Prophetic Literature_](https://www.wtsbooks.com/collections/wts-textbooks/products/interpreting-the-prophetic-word-willem-van-gemeren-9780310211389) | VanGemeren, Willem A. | - | OT 311 |
+| [_Interpreting the Prophetic Word: An Introduction to the Prophetic Literature_](https://www.wtsbooks.com/collections/wts-textbooks/products/interpreting-the-prophetic-word-willem-van-gemeren-9780310211389) | 范甘麦伦 | - | OT 311 |
 | [_The Flow of the Psalms: Discovering Their Structure and Theology_](https://www.wtsbooks.com/collections/wts-textbooks/products/the-flow-of-the-psalms-discovering-their-structure-and-theology-o-palmer-robertson-9781629951331) | 欧文·帕尔默·罗伯森 | - | OT 323 |
 | [_The Wisdom of Proverbs, Job and Ecclesiastes: An Introduction to Wisdom Literature_](https://www.wtsbooks.com/collections/wts-textbooks/products/the-wisdom-of-proverbs-job-and-ecclesiastes-derek-kidner-9780877844051) | 柯德纳 | - | OT 323 |
 | [_Book of Proverbs: Chapters 1-15 (NICOT)_](https://www.wtsbooks.com/collections/wts-textbooks/products/book-of-proverbs-bruce-waltke-9780802825452) | 华尔基 | 《箴言注释上下》（麦种） | OT 323 |
